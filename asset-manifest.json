@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/data-science-react-page/static/css/main.9f143217.css",
-    "main.js": "/data-science-react-page/static/js/main.41f633a8.js",
+    "main.js": "/data-science-react-page/static/js/main.b2556b52.js",
     "static/media/people.jpg": "/data-science-react-page/static/media/people.d6036331ff2557ee1282.jpg",
     "static/media/logo.png": "/data-science-react-page/static/media/logo.802c56fb04a91b5c1789.png",
     "index.html": "/data-science-react-page/index.html",
     "main.9f143217.css.map": "/data-science-react-page/static/css/main.9f143217.css.map",
-    "main.41f633a8.js.map": "/data-science-react-page/static/js/main.41f633a8.js.map"
+    "main.b2556b52.js.map": "/data-science-react-page/static/js/main.b2556b52.js.map"
   },
   "entrypoints": [
     "static/css/main.9f143217.css",
-    "static/js/main.41f633a8.js"
+    "static/js/main.b2556b52.js"
   ]
 }
